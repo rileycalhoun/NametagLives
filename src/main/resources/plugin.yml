@@ -1,0 +1,6 @@
+name: NametagLives
+version: '${project.version}'
+main: me.rileycalhoun.nametaglives.NametagLives
+api-version: 1.19
+authors: [ Quizaciously ]
+description: A plugin that displays your health on your nametag.
